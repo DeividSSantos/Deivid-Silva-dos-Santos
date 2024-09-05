@@ -1,3 +1,3 @@
 ### Meu nome é Deivid Silva 👋
 
-Eu quero ser um programador e estou aprendendo a fazer c# e javascript e um pouco de outras linguagens também, estou pensando em fazer o enem pra conseguir conhecimento.
+Eu sou um programador Pleno em C# (.NET MVC, .NET Core, Windows Forms, Unity), Pleno em SQL (SQL Server, SQL Workbench, SQLite Studio), junior em Javascript, HTML e CSS (Node JS).
